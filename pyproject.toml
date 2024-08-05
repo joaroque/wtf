@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "wtf"
+version = "0.1.0"
+description = "A powerful app that uses AI to provide human-readable explanations for your previous terminal errors."
+authors = ["joaroque <haguacomh@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+langchain = "^0.2.11"
+langchain-community = "^0.2.10"
+langchain-openai = "^0.1.19"
+typer = {extras = ["all"], version = "^0.12.3"}
+python-dotenv = "^1.0.1"
+colorama = "^0.4.6"
+huepy = "^1.2.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
