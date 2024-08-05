@@ -162,4 +162,4 @@ cython_debug/
 #.idea/
 
 
-src/test.py
+src/test.py.DS_Store
