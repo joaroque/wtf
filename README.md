@@ -211,7 +211,7 @@ Project Link: [https://github.com/joaroque/wtf](https://github.com/joaroque/wtf)
 [issues-shield]: https://img.shields.io/github/issues/joaroque/wtf.svg?style=for-the-badge
 [issues-url]: https://github.com/joaroque/wtf/issues
 [license-shield]: https://img.shields.io/github/license/joaroque/wtf.svg?style=for-the-badge
-[license-url]: https://github.com/joaroque/wtf/blob/master/LICENSE.txt
+[license-url]: https://raw.githubusercontent.com/joaroque/wtf/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/joaroque
 [app-demo]: demo/demo.gif
