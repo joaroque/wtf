@@ -13,7 +13,7 @@ from wtf.utils.prompt import EXPLAINER_PROMPT, RERUN_PROMPT
 
 load_dotenv()
 
-USER_LANGUAGE = "pt-PT"
+USER_LANGUAGE = "en"
 RESPONSE_FORMAT = "plain/text"
 
 home_directory = path.expanduser("~")
