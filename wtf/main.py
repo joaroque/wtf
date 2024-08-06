@@ -2,13 +2,14 @@ from os import path
 
 import huepy as hue
 import typer
-from corrector import corrector
 from dotenv import load_dotenv
-from llms.openai import OpenaiLLM
-from shell.get_command import get_previous_command
-from shell.get_error import get_error
-from utils.models import ConsoleCommand, ErrorMessage
-from utils.prompt import EXPLAINER_PROMPT, RERUN_PROMPT
+
+from wtf.corrector import corrector
+from wtf.llms.openai import OpenaiLLM
+from wtf.shell.get_command import get_previous_command
+from wtf.shell.get_error import get_error
+from wtf.utils.models import ConsoleCommand, ErrorMessage
+from wtf.utils.prompt import EXPLAINER_PROMPT, RERUN_PROMPT
 
 load_dotenv()
 

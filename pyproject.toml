@@ -2,9 +2,12 @@
 name = "wtf"
 version = "0.1.0"
 description = "A powerful app that uses AI to provide human-readable explanations for your previous terminal errors."
-authors = ["joaroque <haguacomh@gmail.com>"]
+authors = ["joaroque <joaquimroque48@gmail.com>"]
 license = "MIT"
 readme = "README.md"
+
+[tool.poetry.scripts]
+wtf = "wtf.main:app"
 
 [tool.poetry.dependencies]
 python = "^3.12"

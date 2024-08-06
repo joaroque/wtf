@@ -2,8 +2,9 @@ import huepy as hue
 from langchain_core.output_parsers import PydanticOutputParser
 from langchain_core.prompts import PromptTemplate
 from langchain_openai import OpenAI
-from utils.models import ErrorMessage
-from utils.prompt import BASE_PROMPT, EXPLAINER_PROMPT
+
+from wtf.utils.models import ErrorMessage
+from wtf.utils.prompt import BASE_PROMPT, EXPLAINER_PROMPT
 
 MODEL_NAME = "gpt-3.5-turbo-instruct"
 
