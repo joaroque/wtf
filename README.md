@@ -17,7 +17,7 @@
   <h3 align="center">WTF: What is The Fault?</h3>
 
   <p align="center">
-   Inspired by The Fuck, WTF enhances functionality by offering detailed error explanations, making it a more streamlined and user-friendly alternative
+   Inspired by [The Fuck](https://github.com/nvbn/thefuck), WTF enhances functionality by offering detailed error explanations, making it a more streamlined and user-friendly alternative
     <br />
     <br />
     <a href="https://github.com/joaroque/wtf">Support me</a>
