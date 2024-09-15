@@ -99,7 +99,7 @@ _Follow the steps below to install and set up WTF locally._
 
 4. Configure the function to export terminal error output to a file. `zsh_error_log.txt`
 
-   Add this function to the end of your `.zshrc` file.
+   Add this function to the end of your `.zshrc` or your shell file.
 
    ```sh
    # WTF Setting
@@ -108,8 +108,6 @@ _Follow the steps below to install and set up WTF locally._
    }
    log_errors
    ```
-
-   **ATTENTION: _WTF supports only ZSH_**
 
 <!-- USAGE EXAMPLES -->
 
